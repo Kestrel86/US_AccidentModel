@@ -14,6 +14,7 @@ pip install numpy
 pip install matplotlib
 pip install pandas
 pip install seaborn
+pip install plotly
 ```
 
 The program is run through Jupyter Notebook and can be run as a web-application or on Visual Studios.
